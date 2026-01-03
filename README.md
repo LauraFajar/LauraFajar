@@ -11,7 +11,7 @@
 
 ### 👩‍💻 Sobre mí
 
-Soy una desarrolladora apasionada por crear soluciones web eficientes y escalables. Actualmente estoy profundizando en el desarrollo Full Stack y explorando el mundo de la Inteligencia Artificial aplicada al código.
+¡Hola! Soy una desarrolladora apasionada por crear soluciones web eficientes y escalables. Actualmente estoy profundizando en el desarrollo Full Stack y explorando el mundo de la Inteligencia Artificial aplicada al código.
 
 - 🔭 **Actualmente trabajando en:** [Racha-App](https://github.com/LauraFajar/racha-app-repositorio), una aplicación para seguimiento de hábitos.
 - 🌱 **Aprendiendo:** Integración de IA (Gemini), Clean Architecture y React Avanzado.
@@ -39,16 +39,6 @@ Soy una desarrolladora apasionada por crear soluciones web eficientes y escalabl
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
-</div>
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LauraFajar&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de Laura" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraFajar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
 </div>
 
 ---
