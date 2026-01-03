@@ -11,7 +11,7 @@
 
 ### 👩‍💻 Sobre mí
 
-¡Hola! Soy una desarrolladora apasionada por crear soluciones web eficientes y escalables. Actualmente estoy profundizando en el desarrollo Full Stack y explorando el mundo de la Inteligencia Artificial aplicada al código.
+Soy una desarrolladora apasionada por crear soluciones web eficientes y escalables. Actualmente estoy profundizando en el desarrollo Full Stack y explorando el mundo de la Inteligencia Artificial aplicada al código.
 
 - 🔭 **Actualmente trabajando en:** [Racha-App](https://github.com/LauraFajar/racha-app-repositorio), una aplicación para seguimiento de hábitos.
 - 🌱 **Aprendiendo:** Integración de IA (Gemini), Clean Architecture y React Avanzado.
